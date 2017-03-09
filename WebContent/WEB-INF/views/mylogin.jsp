@@ -11,7 +11,7 @@
 	<form action="${loginUrl}" method="post">
 		LoginName:<input type="text" name="ssoId"/><br/>
 		Password:<input type="text" name="password"/><br/>
-		<input type="submit" value="login"/>
+		<input type="submit" value="login"/> 
 	</form>
 </body>
 </html>
